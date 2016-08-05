@@ -1,0 +1,18 @@
+{
+  "name": "hyperterm-hottheme",
+  "version": "0.1.0",
+  "description": "Hot HyperTerm theme",
+  "license": "MIT",
+  "author": {
+    "name": "diel duarte",
+    "email": "magdiel.kesller@gmail.com",
+    "url": "www.dielduarte.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme"
+  ]
+}
